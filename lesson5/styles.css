@@ -1,0 +1,21 @@
+.header {
+	text-align: center;
+}
+
+.button {
+	text-align: center;
+	margin-top: 2rem;
+}
+
+.footer {
+	text-align: center;
+	margin-top: 1rem;
+	margin-left: 20rem;
+	margin-right: 20rem;
+}
+h1 {
+	padding: 1rem;
+}
+h2 {
+	padding: 1rem;
+}
